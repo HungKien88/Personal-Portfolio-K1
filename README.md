@@ -1,4 +1,4 @@
-# Đặng Hùng Kiên -
+# Đặng Hùng Kiên 
 
 Web Kin is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 # Personal portfolio
@@ -7,8 +7,8 @@ Web Kin is a fully responsive personal portfolio website, responsive for all dev
 ## Contact
 
 If you want to contact me you can reach me at:
- [Mail]( danghungkien2612@gmail.com).
- [Phone] (0349473779).
+- Mail : netlienminh247@gmail.com
+
 
 
 ## License

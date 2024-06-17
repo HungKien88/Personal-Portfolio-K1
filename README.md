@@ -1,11 +1,11 @@
 
 /* -------------------------------------------
 
-Name:         Personal-Portfolio-K1
-Version:      1.0
-Developer:    Kien Designer
-Auther:       Đặng Hùng Kiên
-Web :        [https://hungkien88.github.io/Personal-Kiz/](https://hungkien88.github.io/Personal-Portfolio-K1/)
+- Name:         Personal-Portfolio-K1.
+- Version:      1.0.
+- Developer:    Kien Designer.
+- Auther:       Đặng Hùng Kiên
+- Web :        [https://hungkien88.github.io/Personal-Kiz/](https://hungkien88.github.io/Personal-Portfolio-K1/)
 
 ------------------------------------------- */
 ##s Discription

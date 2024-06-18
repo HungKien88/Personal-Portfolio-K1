@@ -1,13 +1,14 @@
 
 /* -------------------------------------------
 
-Name:         Personal-Portfolio-K1
-Version:      1.0
-Developer:    Kien Designer
-Auther:       Đặng Hùng Kiên
-Web :        [https://hungkien88.github.io/Personal-Kiz/](https://hungkien88.github.io/Personal-Portfolio-K1/)
+- Name:         Personal-Portfolio-K1.
+- Version:      1.0.
+- Developer:    Kien Designer.
+- Auther:       Đặng Hùng Kiên
+- Web :        [https://hungkien88.github.io/Personal-Kiz/](https://hungkien88.github.io/Personal-Portfolio-K1/)
 
 ------------------------------------------- */
+
 ##s Discription
 Personal-Portfolio-K1 is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 ## Experience
